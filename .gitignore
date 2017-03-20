@@ -1,5 +1,8 @@
 .DS_Store
+
+# things specific to my project
 script.md
+audio/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
